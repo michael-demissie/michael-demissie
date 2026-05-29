@@ -90,11 +90,7 @@ Springer Nature · 7th International Conference on Smart Computing and Informati
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=michael-demissie&show_icons=true&count_private=true&theme=dark&title_color=C9A84C&icon_color=C9A84C&text_color=ffffff&bg_color=0a0f1e&border_color=1a2340&border_radius=6&cache_seconds=1800" />
-&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-demissie&layout=compact&count_private=true&theme=dark&title_color=C9A84C&text_color=ffffff&bg_color=0a0f1e&border_color=1a2340&border_radius=6&cache_seconds=1800" />
 
-<br/><br/>
 
 [![streak](https://github-readme-streak-stats.herokuapp.com?user=michael-demissie&theme=dark&background=0a0f1e&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&border=1a2340)](https://github.com/michael-demissie)
 

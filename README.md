@@ -58,7 +58,7 @@ michael = {
 
 ---
 
-### FinResolve — Financial Complaints Pipeline & ML Routing
+### FinResolve · Financial Complaints Pipeline & ML Routing
 
 End-to-end ETL pipeline processing **1M+ CFPB records** with DistilBERT department classification and TF-IDF priority routing. Deployed on Render with JWT-auth FastAPI and role-based dashboards.
 
@@ -71,7 +71,7 @@ End-to-end ETL pipeline processing **1M+ CFPB records** with DistilBERT departme
 
 ### DC Metro Real-Time Arrivals Pipeline
 
-Real-time ingestion polling WMATA API every **60 seconds** across all DC Metro stations — sustaining **580K+ rows/day** into PostgreSQL with Airflow-scheduled rolling 24hr retention.
+Real-time ingestion polling WMATA API every **60 seconds** across all DC Metro stations · sustaining **580K+ rows/day** into PostgreSQL with Airflow-scheduled rolling 24hr retention.
 
 `Node.js` `PostgreSQL` `Airflow` `Docker` `Express` `Railway`
 
@@ -92,7 +92,6 @@ Springer Nature · 7th International Conference on Smart Computing and Informati
 
 
 
-[![streak](https://github-readme-streak-stats.herokuapp.com?user=michael-demissie&theme=dark&background=0a0f1e&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&border=1a2340)](https://github.com/michael-demissie)
 
 <br/>
 
